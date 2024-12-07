@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\MidTermGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BBBE1D-FCF2-4347-AD79-7126146FEFD9}|MidTermGame\\MidTermGame.csproj|C:\\Users\\PC\\Desktop\\MidTermGame\\midtermgame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BBBE1D-FCF2-4347-AD79-7126146FEFD9}|MidTermGame\\MidTermGame.csproj|solutionrelative:midtermgame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BBBE1D-FCF2-4347-AD79-7126146FEFD9}|MidTermGame\\MidTermGame.csproj|c:\\users\\pc\\desktop\\midtermgame\\midtermgame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BBBE1D-FCF2-4347-AD79-7126146FEFD9}|MidTermGame\\MidTermGame.csproj|solutionrelative:midtermgame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BBBE1D-FCF2-4347-AD79-7126146FEFD9}|MidTermGame\\MidTermGame.csproj|C:\\Users\\PC\\Desktop\\MidTermGame\\midtermgame\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BBBE1D-FCF2-4347-AD79-7126146FEFD9}|MidTermGame\\MidTermGame.csproj|solutionrelative:midtermgame\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BBBE1D-FCF2-4347-AD79-7126146FEFD9}|MidTermGame\\MidTermGame.csproj|C:\\Users\\PC\\Desktop\\MidTermGame\\midtermgame\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BBBE1D-FCF2-4347-AD79-7126146FEFD9}|MidTermGame\\MidTermGame.csproj|solutionrelative:midtermgame\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BBBE1D-FCF2-4347-AD79-7126146FEFD9}|MidTermGame\\MidTermGame.csproj|C:\\Users\\PC\\Desktop\\MidTermGame\\midtermgame\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BBBE1D-FCF2-4347-AD79-7126146FEFD9}|MidTermGame\\MidTermGame.csproj|solutionrelative:midtermgame\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BBBE1D-FCF2-4347-AD79-7126146FEFD9}|MidTermGame\\MidTermGame.csproj|C:\\Users\\PC\\Desktop\\MidTermGame\\midtermgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BBBE1D-FCF2-4347-AD79-7126146FEFD9}|MidTermGame\\MidTermGame.csproj|solutionrelative:midtermgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MidTermGame\\MidTermGame\\Equipment.cs",
+              "RelativeDocumentMoniker": "MidTermGame\\Equipment.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MidTermGame\\MidTermGame\\Equipment.cs",
+              "RelativeToolTip": "MidTermGame\\Equipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:31:25.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MidTermGame\\MidTermGame\\Enemy.cs",
+              "RelativeDocumentMoniker": "MidTermGame\\Enemy.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MidTermGame\\MidTermGame\\Enemy.cs",
+              "RelativeToolTip": "MidTermGame\\Enemy.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAcwDEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:31:25.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stats.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MidTermGame\\MidTermGame\\Stats.cs",
+              "RelativeDocumentMoniker": "MidTermGame\\Stats.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MidTermGame\\MidTermGame\\Stats.cs",
+              "RelativeToolTip": "MidTermGame\\Stats.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:31:25.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MidTermGame\\MidTermGame\\Player.cs",
+              "RelativeDocumentMoniker": "MidTermGame\\Player.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MidTermGame\\MidTermGame\\Player.cs",
+              "RelativeToolTip": "MidTermGame\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:31:26.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MidTermGame\\MidTermGame\\Game.cs",
+              "RelativeDocumentMoniker": "MidTermGame\\Game.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MidTermGame\\MidTermGame\\Game.cs",
+              "RelativeToolTip": "MidTermGame\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:31:26.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\MidTermGame\\MidTermGame\\Program.cs",
+              "RelativeDocumentMoniker": "MidTermGame\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\MidTermGame\\MidTermGame\\Program.cs",
+              "RelativeToolTip": "MidTermGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:31:26.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\CSharp\MidTermGame\MidTermGame\bin\Debug\MidTermGame.exe.config
+C:\CSharp\MidTermGame\MidTermGame\bin\Debug\MidTermGame.exe
+C:\CSharp\MidTermGame\MidTermGame\bin\Debug\MidTermGame.pdb
+C:\CSharp\MidTermGame\MidTermGame\obj\Debug\MidTermGame.csproj.AssemblyReference.cache
+C:\CSharp\MidTermGame\MidTermGame\obj\Debug\MidTermGame.csproj.CoreCompileInputs.cache
+C:\CSharp\MidTermGame\MidTermGame\obj\Debug\MidTermGame.exe
+C:\CSharp\MidTermGame\MidTermGame\obj\Debug\MidTermGame.pdb
+C:\Users\PC\Desktop\MidTermGame\MidTermGame\bin\Debug\MidTermGame.exe.config
+C:\Users\PC\Desktop\MidTermGame\MidTermGame\bin\Debug\MidTermGame.exe
+C:\Users\PC\Desktop\MidTermGame\MidTermGame\bin\Debug\MidTermGame.pdb
+C:\Users\PC\Desktop\MidTermGame\MidTermGame\obj\Debug\MidTermGame.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\MidTermGame\MidTermGame\obj\Debug\MidTermGame.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MidTermGame\MidTermGame\obj\Debug\MidTermGame.exe
+C:\Users\PC\Desktop\MidTermGame\MidTermGame\obj\Debug\MidTermGame.pdb
